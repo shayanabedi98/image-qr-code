@@ -1,0 +1,21 @@
+body {
+    font-family: 'Outfit', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.card {
+    background-color: white;
+    text-align: center;
+    margin: 0 auto;
+    display: grid;
+    height: 100vh;
+    background-color: #d5e1ef;
+}
+
+.card-content {
+    align-items: center;
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
